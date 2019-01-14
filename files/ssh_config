@@ -1,0 +1,5 @@
+IdentityFile=/home/go/.ssh/core_instances.pem
+IdentityFile=/home/go/.ssh/core-bastion.pem
+IdentityFile=/home/go/.ssh/ecs-bastion.pem
+IdentityFile=/home/go/.ssh/id_rsa
+IdentityFile=/home/go/.ssh/ecs-instances.pem
